@@ -1,7 +1,7 @@
 # HW - Clicky-Game
 
 ## Getting Started
-- Enter [this link](http://erichan.github.io/clicky-game) to begin!
+- Enter [this link](http://erichan42.github.io/clicky-game) to begin!
 
 ## Instructions
 
