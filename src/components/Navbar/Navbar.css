@@ -1,0 +1,22 @@
+.navbar {
+    background: darkorchid;
+    min-height: 70px;
+    position: fixed;
+    width: 100%;
+    color: white;
+    font-size: 24px;
+  }
+  
+  .navbar li {
+    display: inline-block;
+    padding: 26px 0px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+  }
+  
